@@ -1,0 +1,22 @@
+{
+  "name": "example-npm-11050",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jake": "jake"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/example-npm-11050.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/example-npm-11050/issues"
+  },
+  "homepage": "https://github.com/watilde/example-npm-11050#readme",
+  "devDependencies": {
+    "jake": "^8.0.12"
+  }
+}
